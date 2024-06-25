@@ -3,6 +3,8 @@ Designed A Responsive Website Clone Version of Famous Indian E-Commerce Store [M
 
 ---> [VISIT LIVE WEBSITE](https://myntra-website-clone.vercel.app/)
 
+or---> [Click Here ](https://myntra-website-clone-lgwihbt61-sais-projects-3867d400.vercel.app/)
+
 ## Tech-Stack Used..
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="60" height="60"/>&nbsp;
