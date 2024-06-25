@@ -28,7 +28,7 @@ Designed A Responsive Website Clone Version of Famous Indian E-Commerce Store [M
 ## Thanks to all contributors ❤
 
  <a href = "https://github.com/jagatapusaibabu/Myntra-Website-Clone/graphs/contributors">
-   <img src = "https://github.com/jagatapusaibabu/Myntra-Website-Clone/">
+   <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fsalvamentos-rpidos--1121114900960991806%2F&psig=AOvVaw0JlMxIFnDGklpljI5zwx7p&ust=1719394350329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC326e59oYDFQAAAAAdAAAAABAb">
  </a>
 
 ## License
