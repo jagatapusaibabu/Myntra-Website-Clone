@@ -28,7 +28,7 @@ Designed A Responsive Website Clone Version of Famous Indian E-Commerce Store [M
 ## Thanks to all contributors ❤
 
 <a href = "https://github.com/jagatapusaibabu/Myntra-Website-Clone/graphs/contributors">
-   <img src = "prifile.jpg"/>
+   <img src = "prifile.jpg"/ width="240" height="233">
  </a>
 
 ## License
